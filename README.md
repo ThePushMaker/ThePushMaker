@@ -1,12 +1,12 @@
 <div align=center>
 
-   <img height=140  src="https://myreadme.vercel.app/api/embed/ThePushMaker?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  
-  <!-- mi perfil stats de racha-->  
+   ## Welcome!
+   #### I'm Martín Calderón, your Full Stack Developer, turning ideas into digital experiences. 🚀
+
    <img height=110 src="https://github-readme-streak-stats.herokuapp.com/?user=ThePushMaker&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
 
 <details align=center>
-   <summary>See more about me</summary>
+   <summary>Curious about my journey? Click to discover more!</summary>
    <a target="_blank" rel="noreferrer" href="https://github.com/ThePushMaker"   title="Go to Source">
       <img align="center" width=500 src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/291192052/original/1ecd2cec1c1a911cf223ec90474a074fc054d26a/do-professional-pixel-art-for-you.jpg" />
     </a>
@@ -109,9 +109,6 @@ I am committed and results-oriented. I enjoy planning and creating. I consistent
    
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
       
-   <div>
-      <img width=500 src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg" /> 
-   </div>
    </div>
 
 
