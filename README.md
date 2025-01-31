@@ -3,7 +3,7 @@
    ## Welcome!
    #### I'm Martín Calderón, your Full Stack Developer, turning ideas into digital experiences. 🚀
 
-   <img height=110 src="https://github-readme-streak-stats.herokuapp.com/?user=ThePushMaker&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
+   <img height=110 src="https://streak-stats.demolab.com?user=ThePushMaker&theme=tokyonight-duo&hide_border=true&locale=es&card_height=170" alt="GitHub Streak"/>
 
 <details align=center>
    <summary>Curious about my journey? Click to discover more!</summary>
@@ -12,8 +12,10 @@
     </a>
    
 <div align=left>
-   
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Martín Calderón
+
+
+
+## Hi! <img width=50 src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> I'm Martín Calderón
 # I'm a PHP Laravel Developer
    <div align=right>
      <a href="https://github.com/ThePushMaker" title="Go to Source">
@@ -42,7 +44,11 @@ I am committed and results-oriented. I enjoy planning and creating. I consistent
    
    - #### Main: The set of languages and tools I predominantly employ includes:
      ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
      ![Livewire](https://img.shields.io/badge/livewire-593393?style=for-the-badge&logo=livewire&logoColor=FF72DD)
+     ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=CI/CD&logoColor=FFFFFF)
+     ![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=Pest&logoColor=FFFFFF)
+     ![phpUnit](https://img.shields.io/badge/phpUnit-000000?style=for-the-badge&logo=phpUnit&logoColor=FFFFFF)
      ![Vue.js](https://img.shields.io/badge/vuejs-%23333593.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
      ![Docker](https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -56,9 +62,10 @@ I am committed and results-oriented. I enjoy planning and creating. I consistent
      ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
      ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+     ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
      
    - #### Secondary: In addition I also feel comfortable working occasionally with this set of technologies that I handle proficiently:
-     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+     
      ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
      ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
      ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -75,7 +82,6 @@ I am committed and results-oriented. I enjoy planning and creating. I consistent
      ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
      ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
      ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-     ![Dart](https://img.shields.io/badge/dart-%23483699.svg?style=for-the-badge&logo=dart&logoColor=white)
    ####
    
  </div>
