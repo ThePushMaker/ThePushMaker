@@ -15,8 +15,7 @@
 
 
 
-## Hi! <img width=50 src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
-# I'm a PHP Laravel Developer
+## Hi! <img width=50 src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> I'm a Full Stack developer specialized in Laravel and React.
    <div align=right>
      <a href="https://github.com/ThePushMaker" title="Go to Source">
      <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
